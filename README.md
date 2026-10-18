@@ -74,7 +74,7 @@ Explores the deceptively difficult requirement that January's opening value equa
 
 **Focus:** Tableau · calculation context · state transitions · SQL pushdown decisions
 
-> Full technical portfolio is being prepared for public release.
+➡️ Explore the full technical portfolio in **[analytics-lab](https://github.com/summerchrz/analytics-lab)**.
 
 ---
 
