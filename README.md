@@ -6,6 +6,7 @@
 
 I build analytical systems where **business logic, data quality, and reporting meet**.
 
+[![Technical Portfolio](https://img.shields.io/badge/Technical-Portfolio-2F81F7?logo=github&logoColor=white)](https://github.com/summerchrz/analytics-lab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/summer-c-3623a2121)
 [![Writing Portfolio](https://img.shields.io/badge/Writing-Portfolio-8A5CF6?logo=readme&logoColor=white)](https://www.clippings.me/summerhc)
 
@@ -32,21 +33,14 @@ These days I spend most of my time in the space between analysis and engineering
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="pandas" />
+![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-336791?logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Azure%20Databricks-Transformation-FF3621?logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation%20%26%20Analysis-3776AB?logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Reporting-E97627)
+![Excel](https://img.shields.io/badge/Excel%20%2F%20VBA-Legacy%20Automation-217346?logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Versioned%20Development-181717?logo=github&logoColor=white)
 
-</div>
-
-<div align="center">
-
-**SQL · Azure Databricks · Python · Tableau · Excel/VBA · Power Automate · APIs**
-
-**Analytics Engineering · Data Modeling · Data Transformation · Data Validation · Workflow Automation**
+**Analytics Engineering · Data Modeling · Data Transformation · Data Validation · Workflow Automation · AI-Assisted Development**
 
 </div>
 
