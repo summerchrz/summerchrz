@@ -54,22 +54,22 @@ These days I spend most of my time in the space between analysis and engineering
 
 ## 🧩 Featured builds
 
-### Multi-Source Analytics Model
+### [Multi-Source Analytics Model](https://github.com/summerchrz/analytics-lab/tree/main/case-studies/multi-source-analytics-model)
 A generalized architecture for combining six operational sources into a reusable analytical layer while protecting grain, normalizing fields, and reconciling downstream outputs.
 
 **Focus:** SQL · Azure Databricks · analytics engineering · validation · reusable modeling
 
-### Blended Actuals + Forecast Pipeline
+### [Blended Actuals + Forecast Pipeline](https://github.com/summerchrz/analytics-lab/tree/main/databricks/blended-actuals-forecast-pipeline)
 Combines differently shaped sources into one reporting structure, blends actuals and forecast around a period cutoff, and documents failure modes rather than hiding them.
 
 **Focus:** Databricks SQL · schema alignment · normalization · boundary logic
 
-### Analytics Workflow Modernization
+### [Analytics Workflow Modernization](https://github.com/summerchrz/analytics-lab/tree/main/case-studies/analytics-engineering-migration)
 A pattern for moving brittle manual or presentation-layer logic into reusable transformations, stronger validation, and documented workflows.
 
 **Focus:** Python · SQL · automation · AI-assisted development · data quality
 
-### Tableau Year-Boundary Starting Balance
+### [Tableau Year-Boundary Starting Balance](https://github.com/summerchrz/analytics-lab/tree/main/case-studies/tableau-year-boundary-starting-balance)
 Explores the deceptively difficult requirement that January's opening value equal December's closing value while prior-year detail remains hidden.
 
 **Focus:** Tableau · calculation context · state transitions · SQL pushdown decisions
