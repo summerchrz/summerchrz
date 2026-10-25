@@ -98,7 +98,7 @@ Explores the deceptively difficult requirement that January's opening value equa
 
 - Reduced a recurring payment process from roughly **80 hours to 10 hours per week**
 - Supported more than **$1.2M in submitted claims**
-- Contributed to more than **$100K in operational savings**
+- Contributed to more than **$500K in operational savings**
 - Built reporting, automation, and analytical workflows used across operational teams
 
 ---
